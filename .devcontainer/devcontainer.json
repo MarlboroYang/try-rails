@@ -1,5 +1,5 @@
 {
-  "name": "Happy Hacking",
+  "name": "Rails 6 | Happy Hacking",
   "dockerFile": "Dockerfile",
   "appPort": [3000],
   "settings": {

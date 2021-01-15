@@ -1,1 +1,1 @@
-FROM 5xcampus/rails
+FROM 5xcampus/ruby:rails6-dev
