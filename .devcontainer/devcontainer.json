@@ -1,0 +1,14 @@
+{
+  "name": "Happy Hacking",
+  "dockerFile": "Dockerfile",
+  "appPort": [3000],
+  "settings": {
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.shell.linux": "/bin/zsh"
+  },
+  "extensions": [
+    "zhuangtongfa.material-theme",
+    "rebornix.ruby",
+    "mhutchie.git-graph"
+  ]
+}
